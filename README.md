@@ -1,4 +1,4 @@
-** *this fork simply updates the pug peer dependency to support pug v3, so you don't have it install with the --legacy-peer-deps flag every time* (https://github.com/pugjs/pug-loader/issues/126)
+** *this fork simply updates the pug peer dependency to support pug v3, so you don't have to install with the --legacy-peer-deps flag every time* (https://github.com/pugjs/pug-loader/issues/126)
 
 # pug-loader
 
