@@ -1,5 +1,5 @@
 {
-  "name": "pug-loader",
+  "name": "@romancow/pug-loader",
   "version": "2.4.0",
   "author": "Tobias Koppers @sokra",
   "description": "Pug loader module for webpack",
@@ -22,9 +22,9 @@
   "scripts": {
     "test": "mocha -R spec"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/pugjs/pug-loader.git"
-  },
+  "repository": "git://github.com/romancow/pug-loader.git",
+  "publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
+	},
   "license": "MIT"
 }
